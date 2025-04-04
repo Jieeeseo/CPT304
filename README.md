@@ -1,6 +1,5 @@
 # Software Design: Addressing "No Silver Bullet" Through Design Patterns
 
-![Software Design Header](images/design_header.png) <!-- Optional header image -->
 
 ## Table of Contents
 1. [Introduction](#introduction)
