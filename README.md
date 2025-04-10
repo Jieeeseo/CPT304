@@ -1,4 +1,4 @@
-# Software Design: Addressing "No Silver Bullet" Through Design Patterns
+# Beyond the Silver Bullet: Addressing Key Software Challenges with Builder and Strategy Patterns
 
 
 ## Table of Contents
